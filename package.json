@@ -2,7 +2,6 @@
   "name": "e_commerce",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ugoalaemeka.github.io/e-commerce",
   "dependencies": {
     "@chec/commerce.js": "^2.6.0",
     "@material-ui/core": "^4.11.4",
